@@ -1,0 +1,2 @@
+add_subdirectory(helloworld)
+add_subdirectory(cxx11_abi_test)
